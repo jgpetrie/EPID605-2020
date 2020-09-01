@@ -1,5 +1,4 @@
 "cause_of_death","DALYs_2016","DALYs_2000"
-"All Causes","2668475.49263494","2813784.66546762"
 "Tuberculosis","51642.598","70474.363"
 "Syphilis","8634.659","10987.665"
 "Chlamydia","1298.215","1108.512"
@@ -41,5 +40,7 @@
 "Lower respiratory infections","129689.842","205116.111"
 "Upper respiratory infections","6090.503","5483.67"
 "Otitis media","3603.018","3688.639"
+"Maternal and neonatal conditions","238590.6","340250.3"
+"Nutritional deficiencies","65863.47","70148.934"
 "Noncommunicable diseases","1595534.582","1314392.399"
 "Injuries","297394.29","290805.777"
